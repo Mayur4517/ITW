@@ -10,4 +10,6 @@ int main(){
     void print(){
         printf("Hello World");
     }
+
+    printf("Hello world ");
 }
